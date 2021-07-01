@@ -54,15 +54,17 @@
 
 为方便在Github页面查看，此处仅提供简化的信息版本，完整表格请查阅：
 
-https://docs.qq.com/sheet/DRk5WSVhHUXhiaEFL?tab=BB08J2
+[完整表格](https://docs.qq.com/sheet/DRk5WSVhHUXhiaEFL?tab=BB08J2)
 
 ## 贡献指引
 
 为保护贡献者的匿名性，我们通过调查问卷来收集信息:
 
-https://wj.qq.com/s2/8652792/e721/
+[调查问卷](https://wj.qq.com/s2/8652792/e721/)
 
 如果你发现数据有严重问题，或有任何建议，请通过ISSIUE反馈.
+
+[创建ISSIUE](https://github.com/AkiyaX/ChangShaCompany/issues/new/choose)
 
 ## 版权声明
 
